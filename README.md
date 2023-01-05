@@ -31,7 +31,7 @@ The [Captcha demo web page from Google](https://www.google.com/recaptcha/api2/de
 ![](https://github.com/rcbonz/anticaptcha-python-example/blob/main/captchaDemo.png)
 
 ## Anti-Captcha API KEY
-To create an account and start breaking captchas, please use [my link](http://getcaptchasolution.com/oyd6boc637).
+To create an Anticaptcha account and start breaking captchas, please use [my link](http://getcaptchasolution.com/oyd6boc637).
 
 ## License
 [DWTFYWWI](https://github.com/avar/DWTFYWWI)
