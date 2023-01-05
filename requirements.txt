@@ -1,0 +1,2 @@
+anticaptchaofficial==1.0.45
+selenium==4.0.0a1
