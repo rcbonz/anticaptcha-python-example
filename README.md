@@ -18,6 +18,17 @@ pip install -r requirements.txt
 ```
 python3 anticaptchaExample.py
 ```
+## Screeshots
+Terminal outputs:
+
+
+![](https://github.com/rcbonz/anticaptcha-python-example/blob/main/terminalOutput.png)
+
+
+The [Captcha demo web page from Google](https://www.google.com/recaptcha/api2/demo):
+
+
+![](https://github.com/rcbonz/anticaptcha-python-example/blob/main/captchaDemo.png)
 
 ## Anti-Captcha API KEY
 To create an account and start breaking captchas, please use [my link](http://getcaptchasolution.com/oyd6boc637).
