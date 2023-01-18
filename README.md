@@ -1,5 +1,5 @@
 # Anticaptcha Python Example
-Code that illustrates usage of anticaptcha (anticaptchaofficial) in python with Selenium and chrome webdriver.
+Code that illustrates usage of anticaptcha (anticaptchaofficial) in python with Selenium and chrome webdriver (more info [here](https://github.com/AdminAnticaptcha/anticaptcha-python)).
 
 Repo just to help people with not having to figure it out, just copy and have fun.
 
